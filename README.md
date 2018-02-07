@@ -7,8 +7,8 @@ you are a complete beginner we recommend the Intro to Python workshop.
 
 ## Installing Java and Eclipse
 
-Eclipse is Integrated Development Environment where we will be writing our Java
-code.
+Eclipse is the Integrated Development Environment (IDE) where we will be
+writing our Java code.
 
 ### Windows
 
@@ -17,7 +17,7 @@ code.
    computer is 64-bit
 3. Double-click the downloaded file and follow the prompts to install Java
 4. Download Eclipse from [here][eclipse]
-5. Under Get Eclipse click the orange button, it should download the approriate
+5. Under Get Eclipse click the orange button, it should download the appropriate
    version
 6. Double-click the downloaded file and select Eclipse IDE for Java Developers
 7. Press Install and follow the prompts.
@@ -26,7 +26,7 @@ code.
 ### Mac
 
 1. Download Eclipse from [here][eclipse]
-2. Under Get Eclipse click the orange button, it should download the approriate
+2. Under Get Eclipse click the orange button, it should download the appropriate
    version
 3. Double-click the downloaded file and select Eclipse IDE for Java Developers
 4. Press Install and follow the prompts.
