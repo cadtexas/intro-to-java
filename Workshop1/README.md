@@ -91,6 +91,7 @@ comments.
 ## Primitive data types
 
 In Java, there are 8 primitive data types.
+
 |Data Type|Description                 |Example|
 |---------|----------------------------|-------|
 |boolean  |true or false               |true   |
