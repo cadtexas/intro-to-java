@@ -5,6 +5,8 @@ from the basics to intermediate object-oriented concepts. The course is fast
 paced and recommended for those who have a little bit of experience already. If
 you are a complete beginner we recommend the Intro to Python workshop.
 
+If you want the exact code from the workshop click [here][code]
+
 ## Installing Java and Eclipse
 
 Eclipse is the Integrated Development Environment (IDE) where we will be
@@ -34,6 +36,7 @@ sudo apt-get install openjdk-8-jdk
 [jdk]: http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html
 [eclipse]: http://www.eclipse.org/downloads/
 [ubuntu]: https://askubuntu.com/questions/695382/how-to-install-eclipse-using-its-installer
+[code]: Program.java
 
 ## Hello World
 
