@@ -14,7 +14,7 @@ writing our Java code.
 
 1. Download Java from [here][jdk]
 2. Select Windows x86 if your computer is 32-bit or Windows x64 if your
-   computer is 64-bit
+   computer is 64-bit or macOS for Mac
 3. Double-click the downloaded file and follow the prompts to install Java
 4. Download Eclipse from [here][eclipse]
 5. Under Get Eclipse click the orange button, it should download the appropriate
