@@ -10,7 +10,7 @@ workshop's topic's.
 
 ## Review
 
-Download the [Conditionals.java][conditionals] file and place it in a Eclipse
+Download the [Conditionals][conditionals] file and place it in a Eclipse
 Java project. Try the exercises, we will walk around to help you, or if you 
 are reading this after the workshop, here is the [solution][solution].
 
