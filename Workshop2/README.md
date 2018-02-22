@@ -17,7 +17,7 @@ if (expression) {
     <statement>
 }
 ```
-If the ```expression``` evaluates to ```true```, the program will execute the statement within the brackets. If the expression evaluates to ```false```, the program will skip over the code within the brackets.
+If the ```expression``` evaluates to ```true```, the program will execute the statement within the brackets. If ```expression``` evaluates to ```false```, the program will skip over the code within the brackets.
 
 ### If/Else
 If/else statements are formatted as such:
