@@ -124,5 +124,5 @@ array = new int[]{2, 2, 2, 2}; // since array variable already exists
 ```
 
 [arrays]: https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html
-[conditonals]: Conditionals.java
+[conditionals]: Conditionals.java
 [solution]: solution/Conditionals.java
