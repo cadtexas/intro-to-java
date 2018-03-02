@@ -2,7 +2,7 @@
 Primitive data types may be add complexity to your program, but most likely, you will need to work with Strings for some of the stuff you'd like to do. Strings allow you to represent data in "text", allowing you to print and receive messages from interfaces, and manipulate them however you'd like. Before we dive into this topic, however, we'll review material from the last workshop.
 
 ## Review
-Combining loops with arrays is a powerful tool to help you navigate your way through an assortment of data. Try downloading the [Arrays Review][ArraysReview] file inside the Workshop4 file and placing it in a Eclipse Java project. Go through the code and see if you're able to understand the presented topics.
+Combining loops with arrays is a powerful tool to help you navigate your way through an assortment of data. Try downloading the [Arrays Review][ArraysReview] file and placing it in a Eclipse Java project. Go through the code and see if you're able to understand the presented topics.
 
 ## Strings Introduction
 While Strings might look like primitive data types and seem to be declared similarly, they have important differences.
