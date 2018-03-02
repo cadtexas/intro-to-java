@@ -8,7 +8,7 @@ Combining loops with arrays is a powerful tool to help you navigate your way thr
 While Strings might look like primitive data types and seem to be declared similarly, they have important differences.
 1. Strings are part of the Object class in Java. This explains the behavior of other qualities in this list.
 2. Strings are immutable - they cannot be changed directly. If, for instance, you wanted to change the last letter of a string, you would have to create a new string with the modified last letter. There is no way to make changes on the original string.
-3. Strings are actually memory addresses - we won't dive too deeply into this, but this is why comparing new strings with the '==' operator will cause an unexpected 'false'.
+3. Strings are actually memory addresses - we won't dive too deeply into this, but this is why comparing new strings with the `==` operator will cause an unexpected `false`.
 
 ## Creating Strings
 There are two ways to create a String. Most of the time, we will be creating them with the second method shown below.
