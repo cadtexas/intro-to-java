@@ -12,7 +12,10 @@ you are a complete beginner we recommend the Intro to Python workshop.
 |2/7/18 |[Introduction to Java][1]  |
 |2/14/18|[Conditionals and Loops][2]|
 |2/21/18|[Arrays][3]                |
+|2/28/18|[Strings][4]                |
+
 
 [1]: Workshop1
 [2]: Workshop2
 [3]: Workshop3
+[4]: Workshop4
