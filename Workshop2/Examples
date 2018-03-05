@@ -1,0 +1,108 @@
+package newProj;
+
+public class helloWorld2 {
+
+	public static void main(String[] args) {
+		int i = 10;
+		ifStatements(i);
+		//forLoops();
+		//switchCases();
+		//whileLoops();
+		//doWhileLoops();
+	}
+	
+	public static void ifStatements(int i) {
+		//if/else statements	
+				
+				/*if (i<8) {
+					System.out.println("I is less than 8");
+				}
+				else {
+					System.out.println("I is greater than 8");
+				}
+				*/
+				//if /else if statements
+				
+				/*if (i<=5) {
+					System.out.println("I is less than 5");
+				}
+				else if (i>5 && i<11) {
+					System.out.println("I is greater than 5 and less than 11");
+					
+				}
+				else {
+					System.out.println("I is greater than 11");
+				}
+				*/
+		//if / if statements
+				if (!(i<5)) {
+					System.out.println("I is greater than 5");
+				}
+				else if (i>9) {
+					System.out.println("I is greater than 9");
+				}
+				
+	}
+	
+	public static void forLoops() {
+		int i =0;
+		for (i = 0; i<=10;i+=2) {
+			System.out.println(i);
+		}
+		System.out.println("For loop ended");
+	}
+	
+	public static void switchCases() {
+		        int month =8;
+		        String monthString;
+		        switch (month) {
+		            case 1:  monthString = "January";
+		                     break;
+		            case 2:  monthString = "February";
+		                     break;
+		            case 3:  monthString = "March";
+		                     break;
+		            case 4:  monthString = "April";
+		                     break;
+		            case 5:  monthString = "May";
+		                     break;
+		            case 6:  monthString = "June";
+		                     break;
+		            case 7:  monthString = "July";
+		                     break;
+		            //case 8:  monthString = "August";
+		              //       break;
+		            case 9:  monthString = "September";
+		                     break;
+		            case 10: monthString = "October";
+		                     break;
+		            case 11: monthString = "November";
+		                     break;
+		            case 12: monthString = "December";
+		                     break;
+		            default: monthString = "Invalid month";
+		                     break;
+		        }
+		        System.out.println(monthString);
+		    }
+	
+		public static void whileLoops() {
+			int i = 5;
+			while (i<5) {
+				System.out.println(i);
+				i++;
+			}
+			System.out.println("out of while");
+		}
+		public static void doWhileLoops() {
+			int i=5;
+			do {
+				System.out.println(i);
+				i++;
+			}while(i<5);
+			
+			System.out.println("out of dowhile");
+		}
+	}
+
+
